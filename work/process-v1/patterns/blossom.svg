@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path id="main-branch" fill="#ded6bd" d="M48 346 C106 309 147 265 177 211 C209 154 244 105 312 61 L323 72 C261 119 232 168 204 226 C176 285 128 329 60 361 Z"/>
+  <path id="upper-twig" fill="#ded6bd" d="M221 178 C249 145 277 126 323 114 L327 124 C289 138 262 158 233 190 Z"/>
+  <path id="lower-twig" fill="#ded6bd" d="M144 273 C127 242 104 224 72 212 L78 202 C118 213 145 233 158 260 Z"/>
+  <path id="top-petal-1" fill="#ded6bd" d="M324 108 C308 91 309 67 326 51 C343 67 342 91 324 108 Z"/>
+  <path id="top-petal-2" fill="#ded6bd" d="M331 114 C338 91 359 80 380 88 C378 112 358 126 331 114 Z"/>
+  <path id="top-petal-3" fill="#ded6bd" d="M327 122 C349 124 362 142 358 163 C334 164 318 147 327 122 Z"/>
+  <path id="top-petal-4" fill="#ded6bd" d="M316 119 C321 143 307 162 284 164 C276 142 289 122 316 119 Z"/>
+  <path id="top-petal-5" fill="#ded6bd" d="M315 110 C292 119 271 106 266 84 C286 73 309 82 315 110 Z"/>
+  <path id="middle-petal-1" fill="#ded6bd" d="M221 201 C207 181 211 157 230 144 C245 162 241 187 221 201 Z"/>
+  <path id="middle-petal-2" fill="#ded6bd" d="M228 207 C239 185 262 178 282 190 C275 213 252 224 228 207 Z"/>
+  <path id="middle-petal-3" fill="#ded6bd" d="M224 216 C247 222 256 244 248 264 C225 260 211 239 224 216 Z"/>
+  <path id="middle-petal-4" fill="#ded6bd" d="M214 212 C215 237 198 253 175 251 C172 228 188 210 214 212 Z"/>
+  <path id="middle-petal-5" fill="#ded6bd" d="M213 203 C188 208 170 192 168 170 C190 165 210 178 213 203 Z"/>
+  <path id="lower-petal-1" fill="#ded6bd" d="M114 266 C100 246 104 222 123 209 C138 227 134 252 114 266 Z"/>
+  <path id="lower-petal-2" fill="#ded6bd" d="M122 271 C133 250 156 243 175 256 C168 279 145 289 122 271 Z"/>
+  <path id="lower-petal-3" fill="#ded6bd" d="M117 280 C140 286 149 308 140 328 C117 324 104 303 117 280 Z"/>
+  <path id="lower-petal-4" fill="#ded6bd" d="M107 276 C108 301 91 317 68 315 C65 292 81 274 107 276 Z"/>
+  <path id="lower-petal-5" fill="#ded6bd" d="M106 267 C81 272 63 256 61 234 C84 229 103 242 106 267 Z"/>
+</svg>

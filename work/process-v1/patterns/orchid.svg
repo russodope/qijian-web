@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path id="left-outer-leaf" fill="#ded6bd" d="M188 354 C154 291 111 227 55 172 C111 194 164 252 202 343 C200 350 195 354 188 354 Z"/>
+  <path id="left-tall-leaf" fill="#ded6bd" d="M198 349 C179 257 143 164 95 75 C158 129 199 218 212 339 C209 346 204 349 198 349 Z"/>
+  <path id="center-leaf" fill="#ded6bd" d="M207 342 C199 236 207 139 229 50 C251 139 242 238 219 346 C215 348 211 347 207 342 Z"/>
+  <path id="right-tall-leaf" fill="#ded6bd" d="M217 344 C239 240 278 155 337 91 C298 177 264 268 231 353 C224 353 219 350 217 344 Z"/>
+  <path id="right-outer-leaf" fill="#ded6bd" d="M226 351 C263 283 304 234 359 198 C312 249 275 305 244 361 C236 360 230 357 226 351 Z"/>
+  <path id="folded-leaf" fill="#ded6bd" d="M194 356 C164 334 139 306 122 272 C158 294 184 317 205 348 C204 354 200 357 194 356 Z"/>
+  <path id="base" fill="#ded6bd" d="M187 348 C205 344 225 348 247 360 L239 372 L178 372 Z"/>
+</svg>

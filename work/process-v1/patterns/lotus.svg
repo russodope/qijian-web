@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <path id="crown-petal" fill="#ded6bd" d="M200 205 C177 180 177 134 200 94 C223 134 223 180 200 205 Z"/>
+  <path id="rear-left-petal" fill="#ded6bd" d="M192 217 C151 204 118 170 107 130 C148 136 181 160 199 190 C201 200 198 210 192 217 Z"/>
+  <path id="rear-right-petal" fill="#ded6bd" d="M208 217 C249 204 282 170 293 130 C252 136 219 160 201 190 C199 200 202 210 208 217 Z"/>
+  <path id="left-support-petal" fill="#ded6bd" d="M180 251 C123 248 73 221 44 179 C102 176 154 193 193 223 C196 235 191 245 180 251 Z"/>
+  <path id="right-support-petal" fill="#ded6bd" d="M220 251 C277 248 327 221 356 179 C298 176 246 193 207 223 C204 235 209 245 220 251 Z"/>
+  <path id="inner-left-petal" fill="#ded6bd" d="M193 257 C160 247 137 221 135 190 C170 195 194 211 205 234 C205 244 201 252 193 257 Z"/>
+  <path id="inner-right-petal" fill="#ded6bd" d="M207 257 C240 247 263 221 265 190 C230 195 206 211 195 234 C195 244 199 252 207 257 Z"/>
+  <path id="front-left-petal" fill="#ded6bd" d="M192 295 C145 289 105 266 83 232 C131 231 174 242 205 264 C207 277 202 288 192 295 Z"/>
+  <path id="front-right-petal" fill="#ded6bd" d="M208 295 C255 289 295 266 317 232 C269 231 226 242 195 264 C193 277 198 288 208 295 Z"/>
+  <path id="front-cup" fill="#ded6bd" d="M200 319 C168 307 147 284 144 255 C171 261 190 273 200 289 C210 273 229 261 256 255 C253 284 232 307 200 319 Z"/>
+</svg>
